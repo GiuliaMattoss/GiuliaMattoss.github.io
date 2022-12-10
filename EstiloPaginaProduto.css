@@ -1,5 +1,5 @@
 
-@import url('https://fonts.google.com/specimen/La+Belle+Aurore');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 * { box-sizing: border-box; }
 html { height: 100%; }
@@ -9,7 +9,7 @@ background-image: url('https://i.pinimg.com/originals/e0/14/19/e0141982b9f6e1c87
  background-size: cover;
  margin: 0%;
  display: grid;
- font-family: LaBelleAurore;
+ font-family: "Quicksand";
  grid-template-columns: 5% auto 5%;
  grid-template-rows: 100px 80px auto 400px;
  grid-column-gap: 10px;
@@ -43,7 +43,6 @@ h1 { margin: 0 }
     .grid-conteudo{
             display: inline-flex;
             margin: 0 auto; 
-            position: center;
     }
     #item-sozinho{
         margin-left: 0;
